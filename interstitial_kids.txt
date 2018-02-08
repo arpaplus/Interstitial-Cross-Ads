@@ -1,3 +1,4 @@
+[Settings]
 stop=0
 runcount=2
 repeat=2
