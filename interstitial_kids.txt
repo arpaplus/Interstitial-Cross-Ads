@@ -1,7 +1,7 @@
 [Settings]
-stop=1
+stop=0
 runcount=1
 repeat=2
 
-pkgid=com.arpaplus.math.challenge.games
-picture=kids/math_challenge.jpg
+pkgid=com.bestdressupgames.lovestory
+picture=dressup/love_story.jpg
