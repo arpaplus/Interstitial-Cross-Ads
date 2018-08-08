@@ -4,4 +4,4 @@ runcount=1
 repeat=2
 
 pkgid=com.bestdressupgames.anime.kawaii
-picture=dressup/love_story.jpg
+picture=dressup/kawaii.jpg
