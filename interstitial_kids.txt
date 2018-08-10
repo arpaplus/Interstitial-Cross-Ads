@@ -1,5 +1,5 @@
 [Settings]
-stop=1
+stop=0
 runcount=1
 repeat=2
 
