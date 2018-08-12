@@ -3,5 +3,5 @@ stop=0
 runcount=2
 repeat=2
 
-pkgid=com.bestdressupgames.anime.kawaii
-picture=dressup/kawaii.jpg
+pkgid=com.bestdressupgames.lovestory
+picture=dressup/love_story.jpg
