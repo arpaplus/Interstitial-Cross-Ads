@@ -1,7 +1,7 @@
 [Settings]
 stop=0
-runcount=4
-repeat=1
+runcount=2
+repeat=2
 
 pkgid=com.bestdressupgames.lovestory
 picture=dressup/love_story.jpg
