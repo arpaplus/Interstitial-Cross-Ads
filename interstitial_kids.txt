@@ -3,5 +3,5 @@ stop=0
 runcount=2
 repeat=2
 
-pkgid=
+pkgid=com.bestdressupgames.anime.rpg
 picture=dressup/rpg.jpg
