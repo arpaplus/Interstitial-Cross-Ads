@@ -1,7 +1,7 @@
 [Settings]
 stop=0
-runcount=2
-repeat=2
+runcount=1
+repeat=1
 
 pkgid=com.bestdressupgames.gymnastics
 picture=dressup/gymnastics.jpg
