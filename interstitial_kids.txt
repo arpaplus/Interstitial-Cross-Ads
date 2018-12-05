@@ -3,5 +3,5 @@ stop=0
 runcount=1
 repeat=2
 
-pkgid=com.bestdressupgames.fitness.girls
-picture=dressup/fitness.jpg
+pkgid=com.bestdressupgames.gymnastics
+picture=dressup/gymnastics.jpg
