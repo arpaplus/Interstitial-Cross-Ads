@@ -1,7 +1,7 @@
 [Settings]
 stop=0
 runcount=5
-repeat=2
+repeat=100
 
 pkgid=com.bestdressupgames.boyfriend
 picture=dressup/boyfriend_maker.jpg
