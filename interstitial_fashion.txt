@@ -1,0 +1,7 @@
+[Settings]
+stop=0
+runcount=3
+repeat=0
+
+pkgid=com.bestdressupgames.adorable
+picture=dressup/adorable_dolls.jpg
