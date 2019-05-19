@@ -1,7 +1,7 @@
 [Settings]
 stop=0
-runcount=2
-repeat=0
+runcount=1
+repeat=2
 
 pkgid=com.bestdressupgames.cute.dolls
 picture=dressup/cute_dolls.jpg
